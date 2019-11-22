@@ -1,5 +1,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# noroff-reactapp
+
+## Clone GitHub repository
+```
+git clone https://github.com/Ibento/noroff-reactapp
+cd noroff-reactapp
+```
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
